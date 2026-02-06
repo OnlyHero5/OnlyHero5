@@ -1,0 +1,57 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070b14" />
+      <stop offset="0.5" stop-color="#0d1626" />
+      <stop offset="1" stop-color="#07111e" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#20e3b2" />
+      <stop offset="1" stop-color="#29b6f6" />
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#2a3a52" stroke-width="0.8" />
+    </pattern>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)" />
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.42" />
+
+  <circle cx="1030" cy="80" r="90" fill="#0e203b" opacity="0.45" />
+  <circle cx="1080" cy="260" r="130" fill="#122b47" opacity="0.25" />
+  <circle cx="170" cy="280" r="110" fill="#1b2f4c" opacity="0.2" />
+
+  <line x1="0" y1="36" x2="1200" y2="36" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="2" />
+  <line x1="0" y1="288" x2="1200" y2="288" stroke="url(#accent)" stroke-opacity="0.24" stroke-width="2" />
+
+  <g opacity="0.9">
+    <rect x="66" y="72" width="16" height="16" rx="2" fill="#20e3b2"/>
+    <rect x="92" y="72" width="16" height="16" rx="2" fill="#29b6f6"/>
+    <rect x="118" y="72" width="16" height="16" rx="2" fill="#8be9fd"/>
+  </g>
+
+  <text x="70" y="158" font-size="62" font-family="'Segoe UI', 'Consolas', 'Monaco', monospace" font-weight="800" fill="#d9f6ff" filter="url(#glow)">
+    ONLYHERO5
+  </text>
+  <text x="72" y="203" font-size="25" font-family="'Segoe UI', 'Consolas', 'Monaco', monospace" fill="#8adfff" letter-spacing="2.2">
+    BUILD . BREAK . REPEAT
+  </text>
+  <text x="73" y="236" font-size="18" font-family="'Segoe UI', 'Consolas', 'Monaco', monospace" fill="#6db8d8">
+    AI / Systems / Automation
+  </text>
+
+  <g stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.7">
+    <line x1="830" y1="92" x2="980" y2="92" />
+    <line x1="865" y1="128" x2="1080" y2="128" />
+    <line x1="885" y1="164" x2="1120" y2="164" />
+    <line x1="850" y1="200" x2="1050" y2="200" />
+    <line x1="820" y1="236" x2="990" y2="236" />
+  </g>
+</svg>
