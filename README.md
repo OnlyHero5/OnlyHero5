@@ -1,17 +1,23 @@
-# <div align="center">Hi there, I'm PSX <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></div>
+# <div align="center">Hi there, I'm PSX</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=OnlyHero5&fontSize=48&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&fontAlignY=35&desc=Build%20.%20Break%20.%20Repeat.&descAlignY=58&descAlign=50" />
+  <img src="./assets/cyber-banner.svg" alt="OnlyHero5 Cyber Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=3DDC97&center=true&vCenter=true&width=700&lines=AI+%2B+Systems+Enthusiast;Python+%7C+JavaScript+%7C+Mini+Programs;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=20E3B2&center=true&vCenter=true&width=760&lines=AI+%2B+Systems+Enthusiast;Python+%7C+JavaScript+%7C+Mini+Programs;Stay+Curious+%7C+Ship+Fast+%7C+Iterate+Harder" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/OnlyHero5"><img src="https://komarev.com/ghpvc/?username=OnlyHero5&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <a href="https://github.com/OnlyHero5?tab=followers"><img src="https://img.shields.io/github/followers/OnlyHero5?label=Followers&style=flat&color=2ea44f" alt="followers" /></a>
-  <a href="https://github.com/OnlyHero5?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-6-1f6feb?style=flat" alt="repos" /></a>
+  <a href="https://github.com/OnlyHero5">
+    <img src="https://img.shields.io/badge/Profile-OnlyHero5-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="profile" />
+  </a>
+  <a href="https://github.com/OnlyHero5?tab=followers">
+    <img src="https://img.shields.io/github/followers/OnlyHero5?label=Followers&style=for-the-badge&color=2563eb" alt="followers" />
+  </a>
+  <a href="https://github.com/OnlyHero5?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-6-0ea5e9?style=for-the-badge" alt="repos" />
+  </a>
 </div>
 
 ---
@@ -19,46 +25,65 @@
 ## About Me
 
 - Name: `PSX`
-- Focus: `AI infra`, `systems experiments`, `small practical tools`
+- Focus: `AI infra`, `systems experiments`, `practical automation`
 - Recent keywords: `vLLM repro`, `SkyRL`, `wxapp check-in`
-- Motto: `Stay curious, ship fast, iterate harder.`
+- Motto: `Build, break, learn, repeat.`
 
-## Tech Stack
+## Skill Matrix
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,bash,linux,git,github,redis,mysql,pytorch&perline=10" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 ## Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/OnlyHero5/wxapp-checkin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyHero5&repo=wxapp-checkin&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/OnlyHero5/nano_vllm_repro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyHero5&repo=nano_vllm_repro&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/OnlyHero5/nano_skyrl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyHero5&repo=nano_skyrl&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/OnlyHero5/assignment2-systems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyHero5&repo=assignment2-systems&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/OnlyHero5/wxapp-checkin"><b>wxapp-checkin</b></a><br/>
+      活动签到小程序。<br/><br/>
+      <img src="https://img.shields.io/github/stars/OnlyHero5/wxapp-checkin?style=flat-square" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/OnlyHero5/wxapp-checkin?style=flat-square" alt="forks"/>
+      <img src="https://img.shields.io/github/languages/top/OnlyHero5/wxapp-checkin?style=flat-square" alt="language"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/OnlyHero5/nano_vllm_repro"><b>nano_vllm_repro</b></a><br/>
+      小型 vLLM 复现与实验项目。<br/><br/>
+      <img src="https://img.shields.io/github/stars/OnlyHero5/nano_vllm_repro?style=flat-square" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/OnlyHero5/nano_vllm_repro?style=flat-square" alt="forks"/>
+      <img src="https://img.shields.io/github/languages/top/OnlyHero5/nano_vllm_repro?style=flat-square" alt="language"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/OnlyHero5/nano_skyrl"><b>nano_skyrl</b></a><br/>
+      强化学习相关的轻量实验仓库。<br/><br/>
+      <img src="https://img.shields.io/github/stars/OnlyHero5/nano_skyrl?style=flat-square" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/OnlyHero5/nano_skyrl?style=flat-square" alt="forks"/>
+      <img src="https://img.shields.io/github/languages/top/OnlyHero5/nano_skyrl?style=flat-square" alt="language"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/OnlyHero5/assignment2-systems"><b>assignment2-systems</b></a><br/>
+      系统课程项目，聚焦 Python 工程实践。<br/><br/>
+      <img src="https://img.shields.io/github/stars/OnlyHero5/assignment2-systems?style=flat-square" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/OnlyHero5/assignment2-systems?style=flat-square" alt="forks"/>
+      <img src="https://img.shields.io/github/languages/top/OnlyHero5/assignment2-systems?style=flat-square" alt="language"/>
+    </td>
+  </tr>
+</table>
 
-## GitHub Analytics
+## Activity Grid
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OnlyHero5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyHero5&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=OnlyHero5&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnlyHero5&bg_color=0d1117&color=7aa2f7&line=00c4ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/409ba5/OnlyHero5" alt="OnlyHero5 GitHub chart" />
 </div>
 
 ## Current Status
@@ -68,10 +93,6 @@ Learning:   RL + LLM serving internals
 Building:   Practical automation and mini-app tools
 Exploring:  Performance, reliability, and clean engineering workflows
 ```
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 <div align="center">
   <sub>Last updated: 2026-02-06</sub>
